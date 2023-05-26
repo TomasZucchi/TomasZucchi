@@ -9,8 +9,6 @@ En mi camino hacia mi búsqueda profesional primero comencé con la carrera dise
 
 A mediados de 2022 conocí a #Henry y esto me parecía cada vez más interesante, así que decidí inscribirme en este Bootcamp donde crecí en mis capacidades técnicas, aprendiendo el manejo de tecnologías, como también las habilidades sociales, ya que fueron meses de relacionarse constantemente con gente con la que teníamos que compartir a diario nuestros avances en el Bootcamp.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TomasZucchi&label=Profile%20views&color=0e75b6&style=flat" alt="TomasZucchi" /> </p>
-
 - 💬 Ask me about **TypeScript, JavaScript, React, Sequelize, PostgreSQL, NodeJs, CSS**
 
 - 📫 How to reach me **tomaszucchi0@gmail.com**
