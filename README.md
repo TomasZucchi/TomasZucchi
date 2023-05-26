@@ -3,7 +3,11 @@
 
 ## About me
 
-Me considero una persona extrovertida, sociable y que me adapto rápidamente a diferentes tipos de grupos. Una de mis cualidades más sobresaliente es mí curiosidad y mis ansias de investigar sobre los temas que me interesan e intrigan. Me gusta trabajar en un ambiente ordenado, y planificar mis tareas y horarios con anticipación.
+Me considero una persona que le gusta investigar y actualizarse sobre diferente tecnologías, tengo adaptabilidad a diferentes tipos de grupos. Me gusta trabajar en un ambiente ordenado, y planificar mis tareas y horarios con anticipación.
+
+En mi camino hacia mi búsqueda profesional primero comencé con la carrera diseño de imagen y sonido (UBA), en donde me encontraba muy cómodo haciendo ediciones de videos y paginas, luego por conocidos descubrí el fascinante mundo de la programación el cual inicie en la carrera de sistemas de información, informática (UNLU).
+
+A mediados de 2022 conocí a #Henry y esto me parecía cada vez más interesante, así que decidí inscribirme en este Bootcamp donde crecí en mis capacidades técnicas, aprendiendo el manejo de tecnologías como ( 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩, 𝙍𝙚𝙖𝙘𝙩𝙅𝙎, 𝙍𝙚𝙙𝙪𝙭, 𝙉𝙤𝙙𝙚𝙅𝙎, 𝙀𝙭𝙥𝙧𝙚𝙨𝙨, 𝙈𝙤𝙣𝙜𝙤𝘿𝘽, 𝙈𝙤𝙣𝙜𝙤𝙤𝙨𝙚, 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇, 𝙎𝙚𝙦𝙪𝙚𝙡𝙞𝙯𝙚, 𝙃𝙏𝙈𝙇, 𝘾𝙎𝙎 ), como también las habilidades sociales, ya que fueron meses de relacionarse constantemente con gente con la que teníamos que compartir a diario nuestros avances en el Bootcamp.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TomasZucchi&label=Profile%20views&color=0e75b6&style=flat" alt="TomasZucchi" /> </p>
 
