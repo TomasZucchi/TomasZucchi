@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Tomás Zucchi</h1>
+<h1 align="center">Hola 👋, soy Tomá Zucchi</h1>
 <h3 align="center">Desarrollador Full Stack💻</h3>
 
 ## About me
