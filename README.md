@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy Tomá Zucchi</h1>
+<h1 align="center">Hola 👋, soy Tomás Zucchi</h1>
 <h3 align="center">Desarrollador Full Stack💻</h3>
 
 ## About me
 
 Me considero una persona que le gusta investigar y actualizarse sobre diferente tecnologías, tengo adaptabilidad a diferentes tipos de grupos. Me gusta trabajar en un ambiente ordenado, y planificar mis tareas y horarios con anticipación.
 
-En mi camino hacia mi búsqueda profesional primero comencé con la carrera diseño de imagen y sonido (UBA), en donde me encontraba muy cómodo haciendo ediciones de videos y paginas, luego por conocidos descubrí el fascinante mundo de la programación el cual inicie en la carrera de sistemas de información, informática (UNLU).
+En mi camino hacia mi búsqueda profesional primero comencé con la carrera diseño de imagen y sonido (UBA), en donde me encontraba muy cómodo haciendo ediciones de videos y paginas, luego por conocidoss descubrí el fascinante mundo de la programación el cual inicie en la carrera de sistemas de información, informática (UNLU).
 
 A mediados de 2022 conocí a #Henry y esto me parecía cada vez más interesante, así que decidí inscribirme en este Bootcamp donde crecí en mis capacidades técnicas, aprendiendo el manejo de tecnologías, como también las habilidades sociales, ya que fueron meses de relacionarse constantemente con gente con la que teníamos que compartir a diario nuestros avances en el Bootcamp.
 
